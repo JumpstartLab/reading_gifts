@@ -9,8 +9,8 @@ Let's get the students each a book as a going-away gift.
 * Danny Garcia - Quiet 
 * Elaine Tai - Thinking Fast & Slow
 * Erin Drummond
-* Geoffrey Schorkopf - Mastery
-* Jennifer Eliuk - five elements of effective thinking
+* Geoffrey Schorkopf - Mastery (Robert Greene)
+* Jennifer Eliuk - The 5 elements of effective thinking
 * John Maddux
 * Jorge Tellez - The E-Myth Revisited
 * Josh Mejia - Code
@@ -27,3 +27,11 @@ Let's get the students each a book as a going-away gift.
 
 * Mythical Man Month
 * Slack
+* The Pragmatic Programmer, journeyman to master
+* Predictably Irrational
+* The Power of Habit
+* Winning Arguments (about rhetoric)
+* Driving Technical Change, Why People on Your Team Don't Act on Good Ideas, and How to Convince Them They Should
+* Innumeracy
+* So Good They Can't Ignore You
+* The Talent Code
