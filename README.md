@@ -5,14 +5,14 @@ Let's get the students each a book as a going-away gift.
 * Bradley Sheehan - Where Good Ideas Come From
 * Chelsea Komlo - Never Eat Alone
 * Christopher Knight - Made to Stick
-* Daniel Mee
-* Danny Garcia - Mythical Man Month
+* Daniel Mee - 
+* Danny Garcia - Quiet 
 * Elaine Tai - Thinking Fast & Slow
 * Erin Drummond
-* Geoffrey Schorkopf
-* Jennifer Eliuk 
+* Geoffrey Schorkopf - Mastery
+* Jennifer Eliuk - five elements of effective thinking
 * John Maddux
-* Jorge Tellez - Flow
+* Jorge Tellez - The E-Myth Revisited
 * Josh Mejia - Code
 * Kareem Grant - Rules for Revolutionaries
 * Kyle Suss - 100 Things Every Designer Needs to Know About People
@@ -22,3 +22,8 @@ Let's get the students each a book as a going-away gift.
 * Phil Battos - The Thank You Economy
 * Raphael Weiner - Smalltalk Best Practice Patterns
 * Shane Rogers - Rework
+
+## Unused
+
+* Mythical Man Month
+* Slack
