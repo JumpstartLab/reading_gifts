@@ -20,7 +20,7 @@ Let's get the students each a book as a going-away gift.
 * Logan Sears - Drive
 * Paul Blackwell - Pragmatic Thinking & Learning
 * Phil Battos - The Thank You Economy
-* Raphael Weiner - Smalltalk Best Practice Patterns
+* Raphael Weiner - Clean Code
 * Shane Rogers - Rework
 
 ## Unused
@@ -31,6 +31,7 @@ Let's get the students each a book as a going-away gift.
 * Winning Arguments (about rhetoric)
 * Innumeracy
 * So Good They Can't Ignore You
+* Smalltalk Best Practice Patterns ($50!)
 * Slack
 
 ## Hungry Academy
